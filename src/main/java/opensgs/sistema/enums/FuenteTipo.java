@@ -1,0 +1,16 @@
+package opensgs.sistema.enums;
+
+public enum FuenteTipo {
+    TIMES_ROMAN,
+    TIMES_BOLD,
+    TIMES_ITALIC,
+    TIMES_BOLD_ITALIC,
+    HELVETICA,
+    HELVETICA_BOLD,
+    HELVETICA_OBLIQUE,
+    HELVETICA_BOLD_OBLIQUE,
+    COURIER,
+    COURIER_BOLD,
+    COURIER_OBLIQUE,
+    COURIER_BOLD_OBLIQUE
+}
